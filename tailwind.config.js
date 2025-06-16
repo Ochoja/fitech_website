@@ -17,6 +17,10 @@ export default {
         '50%': '50%',
         16: '4rem',
       },
+      backgroundImage: {
+        'hero-pattern': "url('/src/assets/hero_bg.png')",
+        'community-impact': "url('/src/assets/bg1.png')",
+      },
       colors: {
         primary: {
           10: '#D2E9FF',
